@@ -1,5 +1,3 @@
 Not my first git file :)
-HEAD
 This line was added on a local machine
 This was added online
-0645c8436531fe81702be328057d07aaf2c7d5b3
