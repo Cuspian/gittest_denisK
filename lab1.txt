@@ -2,3 +2,4 @@ Not my first git file :)
 This line was added on a local machine
 This was added online
 hello there this is Yining Fan messing with your file
+Hello there, this is Lucy Kang messing with your file
